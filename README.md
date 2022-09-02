@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiloRaz92
 - 👀 I’m interested in learning about the technology which drives modern civilization
-- 🌱 I’m currently learning about networking fundamentals
+- 🌱 I’m currently learning about networking security fundamentals
 - 💞️ I’m looking to collaborate on knowledge!
 - 📫 How to reach me ... please don't!
 
